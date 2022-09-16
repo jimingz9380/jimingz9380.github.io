@@ -34,18 +34,20 @@ a {
     margin-bottom: 45px;
 }
 
-/* .bg-1 {
-    background-color: #ffffff; /* White */
+.bg-1 {
+    background-color: #ffffff; /*White */
     color: #555555;
 }
 
 .bg-2 {
     background-color: #2e72a1; /* Blue */
     color: #ffffff;
-} */
+}
 
-#bg-img{
+#projects {
     background-image: url(img/starfield.jpg);
+    background-repeat: no-repeat;
+    width: auto;
 }
 
 .card {
