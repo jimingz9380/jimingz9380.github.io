@@ -34,7 +34,7 @@ a {
     margin-bottom: 45px;
 }
 
-.bg-1 {
+.bg-1 .logo-bg{
     background-color: #ffffff; /*White */
     color: #555555;
 }
@@ -47,7 +47,7 @@ a {
 #projects {
     background-image: url(img/starfield.jpg);
     background-repeat: no-repeat;
-    width: auto;
+    background-size:100% 100%;
 }
 
 .card {
