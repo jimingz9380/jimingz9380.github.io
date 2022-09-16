@@ -44,8 +44,9 @@ a {
     color: #ffffff;
 }
 
-.logo-bg{
+#logo-bg{
     background-color: #ffffff; /*White */
+    margin: 0% 40%;
 }
 #projects {
     background-image: url(img/starfield.jpg);
