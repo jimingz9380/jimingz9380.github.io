@@ -16,7 +16,7 @@ a {
     color: #2e72a1;
 }
 
-#logo, .project-img {
+.project-img {
     max-height: 300px;
 }
 
@@ -84,4 +84,9 @@ a {
 
 .text {
     font-size:17.5px;
+}
+
+.img-size {
+    width: 29.33%;
+
 }
