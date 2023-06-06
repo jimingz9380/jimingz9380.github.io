@@ -2,6 +2,20 @@ html, body {
     height: 100%;
 }
 
+.container-custome {
+    position: relative;
+    text-align: center;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 5rem;
+    color: black;
+}
+
 body {
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
@@ -106,4 +120,11 @@ a {
 .img-size {
     width: 29.33%;
 
+}
+
+.pic-width{
+    width:81.33%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
 }
